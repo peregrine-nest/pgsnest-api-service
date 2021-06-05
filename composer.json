@@ -1,5 +1,5 @@
 {
-    "name": "peregrine-nest/api-service",
+    "name": "peregrine-nest/pgsnest-api-service",
     "type": "project",
     "description": "The Laravel Framework.",
     "keywords": ["framework", "laravel"],
