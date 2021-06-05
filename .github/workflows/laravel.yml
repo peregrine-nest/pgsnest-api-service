@@ -70,4 +70,4 @@ jobs:
         echo 'May the force be with the test !'
         echo ''
         vendor/bin/phpunit
-        
+
