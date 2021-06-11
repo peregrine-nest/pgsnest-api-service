@@ -10,8 +10,11 @@
         "fideloper/proxy": "^4.4",
         "fruitcake/laravel-cors": "^2.0",
         "guzzlehttp/guzzle": "^7.3.0",
+        "http-interop/http-factory-guzzle": "^1.0",
         "laravel/framework": "^8.40",
+        "laravel/scout": "^9.1",
         "laravel/tinker": "^2.5",
+        "meilisearch/meilisearch-php": "^0.18.2",
         "nuwave/lighthouse": "^5.12"
     },
     "require-dev": {
