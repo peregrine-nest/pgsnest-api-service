@@ -3,8 +3,12 @@
 /public/storage
 /storage/*.key
 /vendor
+
 .env
 .env.backup
+_lighthouse_ide_helper.php
+programmatic-types.graphql
+schema-directives.graphql
 .phpunit.result.cache
 docker-compose.override.yml
 Homestead.json
